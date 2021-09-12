@@ -6,7 +6,7 @@ To install please execute:
 
 ## Libraries Used
 
-react-bootstrap for CSS
+react-bootstrap for CSS<br />
 react-svg-gauge for Charting
 
 ## Available Scripts
